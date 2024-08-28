@@ -1,1 +1,1 @@
-"# django_team" 
+# django_team
