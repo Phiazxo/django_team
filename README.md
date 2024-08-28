@@ -1,1 +1,1 @@
-# Template
+# django_team
