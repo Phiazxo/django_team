@@ -11,3 +11,9 @@ def aboutPage(request):
 
 def contactPage(request):
     return render(request, 'contact.html')
+
+def loginPage(request):
+    return render(request, 'login.html')
+
+def registerPage(request):
+    return render(request, 'register.html')
